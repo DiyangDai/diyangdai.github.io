@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 8
-description: an other project with a background image and giscus comments
+title: Smell Robot
+description: Dicovering the Human Robot Interaction
 img: assets/img/9.jpg
-importance: 2
-category: work
+importance: 1
+category: HCI
 giscus_comments: true
 ---
 
